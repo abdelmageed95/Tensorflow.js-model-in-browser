@@ -6,7 +6,7 @@
 ## Task steps <a href="static\model\classifier2.ipynb">notebook</a> :
 ### 1- Collecting data :
 
-the Dataset used is <a href="https://figshare.com/articles/dataset/Indoor-Outdoor_dataset/4595323">Indoor-outdoor datasetfigshare</a>.<br>
+the Dataset used is <a href="https://figshare.com/articles/dataset/Indoor-Outdoor_dataset/4595323">Indoor-outdoor dataset figshare</a>.<br>
 
 ### 2- Data Preprocessing
     |___ Data Normalization
